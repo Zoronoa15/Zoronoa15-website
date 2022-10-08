@@ -1,0 +1,58 @@
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: #fff;
+	background-color: #FE0901;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 15px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #fff;
+	background-color: #CD0701;
+	transition: 0.3s;
+	border-radius: 3px;
+
+
+}
+
+footer{
+	background-color: #4E34FE;
+	padding: 30px;
+	color: #fff;
+}
+
+header{
+	background-color: #4E34FE;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+div.playlists{
+	padding: 30px;
+}
+
+div.videos{
+	padding-left: 20%;
+}
+
+div.videos iframe{
+	padding: 20px;
+}
+
+body{
+	background: url(https://wallup.net/wp-content/uploads/2016/05/27/356417-Minecraft-shaders.jpg);
+	background-size: 100%;
+}
+
+div.playlists iframe{
+	margin-bottom: 50px;
+}
