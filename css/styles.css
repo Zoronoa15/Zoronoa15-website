@@ -49,8 +49,7 @@ div.videos iframe{
 }
 
 body{
-	background: url(https://wallup.net/wp-content/uploads/2016/05/27/356417-Minecraft-shaders.jpg);
-	background-size: 100%;
+	background-color: #eee;
 }
 
 div.playlists iframe{
